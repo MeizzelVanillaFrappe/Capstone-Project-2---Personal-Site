@@ -1,0 +1,32 @@
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
+body {
+ font-family: 'IBM Plex Serif', serif;
+    background-color: #393E46;
+}
+
+.roundedup {
+   vertical-align: middle;
+}
+
+.navbar {
+  
+    font-weight: bold;
+}
+
+.texttobold {
+    font-weight: bolder;
+}
+
+.ms-3{
+    padding: 10px;
+}
+.credits {
+    color: white;
+  
+}
+
+
+
